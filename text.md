@@ -1,7 +1,7 @@
 ---
 title: Platform Regulation
 subtitle: an attempt for a fundamental rights based proposal
-version: "0.9beta"
+version: "0.9.1beta"
 ---
 
 Dominant internet platforms like Facebook, Amazon and Google are more and more becoming the arena of social and legal conflicts. We witness a worldwide debate about potential new rules for dominant social media platforms (a so called new "platform regulation"). These debates are highly complex in a law-based society because they require us to resolve the conflict between fundamental rights and risk delegation of essential tasks to private actors. Still, the negative effects of harmful behaviour by these actors increases political appetite for regulation.
@@ -105,6 +105,7 @@ For content that does not fall under the aforementioned offences, there must be 
 ## `RECOMMENDED` Social Media Oversight Council
 **To curtail the risk of Terms of Services to become a vehicle for human rights infringements, their application should be governed by a co-regulatory approach.** Given the strong influence of dominant platforms on the excercise of fundamental rights, we argue that freedom of expression in particular can't be enjoyed if it isn't upheld by large companies that are essential infrastructure to the dominate public debates.
 A considerable degree of content regulation on the internet takes places outside the scope of court decisions about specific pieces of content. This has created a grey area of content regulation in which political pressure and private power reign supreme. The current model in which platforms regulate for whoever shouts loudest is not a sustainable form of governance, nor does it promote freedom of expression. At the same time any government regulation risks even more government interference in legal content takedown. To limit such attempts, we propose a governance model based on press councils, with strong incentives for platforms to participate in such a governance model. The EU shall lay down rules to create independent social media council with strong conflicts of interest policies.
+
 1. **The primary function of the council is to oversee the adherence of content moderation practices to the Terms of Services and other rules governing the content moderation of relevant and dominant online platforms.** Its mandate is focused on the content moderation practices of legal content and excludes the handling of illegal content.
 2. **The primary aim of the council is to highlight systemic and relevant cases of content moderation decisions that are discriminatory, harmful or in conflict with the rules of the platform.** The council can receive complaints from the general public, but is independent in its selection of cases or which topics it investigates.
 4. **Once the council has decided to start an investigation into the handling of certain types of content, it can request assistance from the platform regulator to obtain relevant information and data.** The regulator is obliged to give assistance if the request is within the mandate of the social media council. The regulator can obtain this data within its supervision mandate from the platform, but cannot base any other proceedings on knoweldge obtained thereby.

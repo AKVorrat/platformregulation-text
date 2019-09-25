@@ -1,12 +1,12 @@
 ---
 title: Platform Regulation
-subtitle: an attempt for a fundamental rights based proposal
-version: "0.9.1beta"
+subtitle: an attempt at a fundamental rights based proposal
+version: "0.9.2beta"
 ---
 
 Dominant internet platforms like Facebook, Amazon and Google are more and more becoming the arena of social and legal conflicts. We witness a worldwide debate about potential new rules for dominant social media platforms (a so called new "platform regulation"). These debates are highly complex in a law-based society because they require us to resolve the conflict between fundamental rights and risk delegation of essential tasks to private actors. Still, the negative effects of harmful behaviour by these actors increases political appetite for regulation.
 
-To navigate the upcoming debate, we want to propose, collect, and evaluate concrete policy solutions within the fundamental rights framework of the European Union. The project aims at a broader acceptance of developed positions within various European civil society.
+To navigate the upcoming debate, we want to propose, collect, and evaluate concrete policy solutions within the fundamental rights framework of the European Union. These proposals have been reviewed by a group of experts from academia, civil society and selected experts. The project aims at broad acceptance of developed positions within various European civil society stakeholders. Given the complexity and novelty of the underlying problems this proposal can't be seen as the final solution, but instead aims to further the debate.
 
 This is a policy proposal in the form and in the spirit of a request for comments. We invite everybody to participate in the discussion, to provide feedback, and to propose amendments on any of the proposals outlined below on this website. [feedback@platformregulation.eu](mailto:feedback@platformregulation.eu)
 
@@ -31,7 +31,7 @@ These policy recommendations and discussions are limited in their scope to democ
 ## `MUST` Online Platforms
 By online platforms, we indicate a service that provides an intermediary function in the access to information, goods or services that are residing on the systems or networks at the direction of users.
 
-> Definition from [Conseil national du numérique, Ambition numérique, Pour une politique française européenne de la transition numérique](https://cnnumerique.fr/files/2017-10/CNNum--rapport-ambition-numerique.pdf) and the DMCA.
+> Definition from [Conseil national du numérique, Ambition numérique, Pour une politique française européenne de la transition numérique](https://cnnumerique.fr/files/2017-10/CNNum--rapport-ambition-numerique.pdf) and the [Digital Millennium Copyright Act](https://en.wikipedia.org/wiki/Digital_Millennium_Copyright_Act).
 
 ## `MUST` Social Media Platforms
 By social media platforms, we understand those online platforms that operate with user-generated content and curate the contents of their users through algorithmic or editorial decisions.

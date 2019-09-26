@@ -1,7 +1,7 @@
 ---
 title: Platform Regulation
 subtitle: an attempt at a fundamental rights based proposal
-version: "0.9.2beta"
+version: "0.9.3beta"
 ---
 
 Dominant internet platforms like Facebook, Amazon and Google are more and more becoming the arena of social and legal conflicts. We witness a worldwide debate about potential new rules for dominant social media platforms (a so called new "platform regulation"). These debates are highly complex in a law-based society because they require us to resolve the conflict between fundamental rights and risk delegation of essential tasks to private actors. Still, the negative effects of harmful behaviour by these actors increases political appetite for regulation.
@@ -249,8 +249,8 @@ Transparency reports need to be published on the following topics:
 
 > Personalised election promises are fostering misinformation and weaken democratic discourse. Every political message needs to be accountable and subject to public scrutiny.  
 
-## `RECOMMENDED` Rectifying Disinformation and Defamatory Content
-**The rectification or apology for content on dominant social media platforms that has been ruled as disinformation or defamation by a court needs to be published by the platform on channels with equivalent audiences to the original content.** Once a court has ordered the content provider to issue a rectification or apology statement according to national media or civil law, the obligation of the content provider shall extend to the dominant social media platform to publish this statement on the same level, and with the same parameters, via which the original content was displayed to users. The purpose of this obligation is to reach the same or an equivalent audience. To implement this obligation, the platform is not obliged to track user behaviour or retain additional information about user interactions.
+## `RECOMMENDED` Rectifying Defamatory Content and Election Interference
+**The rectification or apology for content on dominant social media platforms that has been ruled as election interference or defamation by a court needs to be published by the platform on channels with equivalent audiences to the original content.** Once a court has ordered the content provider to issue a rectification or apology statement according to national media or civil law, the obligation of the content provider shall extend to the dominant social media platform to publish this statement on the same level, and with the same parameters, via which the original content was displayed to users. The purpose of this obligation is to reach the same or an equivalent audience. To implement this obligation, the platform is not obliged to track user behaviour or retain additional information about user interactions.
 
 > See [NETPEACE](https://netpeace.eu): "Right to digital counter statement: notification of rectification in case of identified false reports due to court decisions. In the field of false reports / honorary offences, the right to a digital counter statement should be established or expanded, according to which all those users who have been notified of a judicially established hoax or defamation must also be notified of the counter-notification. Any notifications of rectification must be sent out via all channels in which the hoax was displayed (i.e. also in the profiles of those users who shared the hoax) and to all users who interacted with the causing message (likes, comments) Etc.). The obligation to correct is to be designed in a way that there is no obligation for additional tracking."
 

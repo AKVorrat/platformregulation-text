@@ -1,7 +1,7 @@
 ---
 title: Platform Regulation
 subtitle: an attempt at a fundamental rights based proposal
-version: "0.9.3beta"
+version: "0.9.4beta"
 ---
 
 Dominant internet platforms like Facebook, Amazon and Google are more and more becoming the arena of social and legal conflicts. We witness a worldwide debate about potential new rules for dominant social media platforms (a so called new "platform regulation"). These debates are highly complex in a law-based society because they require us to resolve the conflict between fundamental rights and risk delegation of essential tasks to private actors. Still, the negative effects of harmful behaviour by these actors increases political appetite for regulation.
@@ -137,7 +137,7 @@ Dominant platforms have to establish registered offices in the EU countries wher
 > Wikipedia: [Ladungsfähige Adresse](https://de.wikipedia.org/wiki/Ladungsf%C3%A4hige_Anschrift) and [registered office](https://en.wikipedia.org/wiki/Registered_office)
 
 ## `MUST NOT` Real Name Policy
-In order to foster effective law enforcement all account holders on social media platforms should NOT be obliged to register with their real identity with social media platforms. The platform is NOT obliged to hand over the identitiy information for the account of any posting after having received a request from a law enforcement agency or a private individual that is pursuing defamatory cases or copyright claims.
+For many marginalised groups anonymity is a pre-condition for the excise of the right to freedom of speech. Therefore, the idea to foster effective law enforcement by obliging all account holders on social media platforms to register with their real identity would lead to a chilling effect.
 
 > [Arguments against a real name policy proposal in Austria](https://en.epicenter.works/content/austria-new-responsibility-law-will-lead-to-self-censorship)
 > [Alternatives to real name policies](https://edri.org/fighting-online-hatespeech-an-alternative-to-mandatory-real-names/)

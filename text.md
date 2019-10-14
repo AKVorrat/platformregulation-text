@@ -1,7 +1,7 @@
 ---
 title: Platform Regulation
 subtitle: an attempt at a fundamental rights based proposal
-version: "0.9.4beta"
+version: "0.9.5beta"
 ---
 
 Dominant internet platforms like Facebook, Amazon and Google are more and more becoming the arena of social and legal conflicts. We witness a worldwide debate about potential new rules for dominant social media platforms (a so called new "platform regulation"). These debates are highly complex in a law-based society because they require us to resolve the conflict between fundamental rights and risk delegation of essential tasks to private actors. Still, the negative effects of harmful behaviour by these actors increases political appetite for regulation.
@@ -90,9 +90,9 @@ By political accounts, we indicate those accounts run by, or acting on behalf of
 ## `RECOMMENDED` Notification and Fair Balance for Illegal Content
 **The current notification and takedown system should be replaced by a notification-and-fair-balance procedure, which obligates different types of actions depending on the content that gets notified and the affected fundamental rights.** To allow for transparency and sufficient oversight within the rule of law, the required procedure after a notification of illegal content (notification of illegality) that grants suspicion for a criminal offense cannot be preempted by the deletion of this content based on the Terms of Services or Community Guidelines of the platform. Otherwise, the economic incentive of the dominant Platform would stipulate overblocking potentially legal content in order to avoid a more burdensome procedure.
 
-1. **efficient notification and take down on dangerous threats and calls for violence**
+1. **Efficient notification and take down on dangerous threats and calls for violence**
 A comprehensive ruleset on a national level shall define a clear set of cases of dangerous threats and calls for violence against individuals or protected groups (hate speech). There is no general monitoring obligation for the platform, but once a platform obtains a notification of illegality it has to assess it in a timely manner. If the content poses an imminent danger to life or existence, the timeframe for the conclusion of the content moderation is shorter. Once knowledge of content in conflict with these rules is established, the dominant platform needs to take immediate action to temporarily block and report the case to judicial authorities. The platforms must inform the complainant and the person affected by such deletion of the outcome and justification for the case. Both parties have the possibility to appeal the decision or the process of notification with a judicial authority. This authority can overturn the decision of the platform and/or permanently delete blocked content. If the judicial authority decides that the decision of the platform regarding the notified content was not justified, or recognises that a report of a user was not exhaustively pursued, a proportional fine for the online platform must be imposed.
-2. **state examination of contentious or non-severe content**
+2. **State examination of contentious or non-severe content**
 For content that does not fall under the aforementioned offences, there must be a government body that can swiftly issue injunctions to clarify whether the platform operator is required to delete them. Platforms need to notify state authorities and must be given a certain deadline to handle cases.
 
 > [ Angelopoulos, Christina and Smet, Stijn, Notice-and-Fair-Balance: How to Reach a Compromise between Fundamental Rights in European Intermediary Liability (October 21, 2016). This is an Authors' Original Version of an article published by Taylor & Francis in Journal of Media Law (2016) on 21 Oct 2016, DOI: 10.1080/17577632.2016.1240957.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2944917)

@@ -1,7 +1,7 @@
 ---
 title: Platform Regulation
 subtitle: an attempt at a fundamental rights based proposal
-version: "0.9.5beta"
+version: "0.9.6beta"
 ---
 
 Dominant internet platforms like Facebook, Amazon and Google are more and more becoming the arena of social and legal conflicts. We witness a worldwide debate about potential new rules for dominant social media platforms (a so called new "platform regulation"). These debates are highly complex in a law-based society because they require us to resolve the conflict between fundamental rights and risk delegation of essential tasks to private actors. Still, the negative effects of harmful behaviour by these actors increases political appetite for regulation.
@@ -39,12 +39,12 @@ By social media platforms, we understand those online platforms that operate wit
 > See also: [EU | Digital Single Market | Online Platforms](https://ec.europa.eu/digital-single-market/en/online-platforms-digital-single-market/), [Even Under Kind Masters: A Proposal to Require that Dominant Platforms Accord Their Users Due Process](https://www.publicknowledge.org/assets/uploads/blog/Even_Under_Kind_Masters.pdf#page=9) p.8 and [Online platforms and how to regulate them: an EU overview](https://www.bertelsmann-stiftung.de/fileadmin/files/user_upload/EZ_JDI_OnlinePlatforms_Dittrich_2018_ENG.pdf#page=4) p.4
 
 ## `MUST` Relevant Platforms
-By relevant platforms, we understand online or social media platforms that have significant market power in a country within the EEA and a minimum global revenue of a certain thresshold.
+By relevant platforms, we understand online or social media platforms that have significant market power in a country within the EEA and a minimum global revenue of a certain threshold.
 
 > Examples of definitions for significant market power and how a regulator should assess them can be found in telecommunication law, e.g. [Article 35 auf the Austrian Telecommunications Act 2003](https://www.rtr.at/en/tk/TKG2003/Telecommunications_Act_2003__unofficial_.pdf)
 
 ## `MUST` Dominant Platforms
-By dominant platforms, we understand online or social media platforms that have significant market power in a majority of countries in the EEA and a minimum global revenue of a certain thresshold.
+By dominant platforms, we understand online or social media platforms that have significant market power in a majority of countries in the EEA and a minimum global revenue of a certain threshold.
 
 ## `MUST` Sponsored Content
 By sponsored content, we understand all content that has been paid for to be displayed or to enlarge its reach.
@@ -55,7 +55,7 @@ By dark content, we understand all sponsored content that is not published on th
 > [What is the Difference Between a Sponsored Post and a Paid Ad?](https://blog.envisionitsolutions.com/what-is-the-difference-between-a-sponsored-post-and-a-paid-ad)
 
 ## `MUST` API Accessibility
-By API accessible, we understand a computer information system that gives access to all content via a unique identifier. This requires that all data has to be downloadable in bulk, by day, week, year and per country. New data shall to be accessible via the system within a day of being published. APIs should be designed in a way to sustain independent research and long-term studies.
+By API accessible, we understand a computer information system that gives access to all content via a unique identifier. This requires that all data has to be downloadable in bulk, by day, week, year and per country. New data shall be accessible via the system within a day of being published. APIs should be designed in a way to sustain independent research and long-term studies.
 
 > [Facebook and Google: This is What an Effective Ad Archive API Looks Like](https://blog.mozilla.org/blog/2019/03/27/facebook-and-google-this-is-what-an-effective-ad-archive-api-looks-like/)
 > [Facebook's Ad Archive API is Inadequate](https://blog.mozilla.org/blog/2019/04/29/facebooks-ad-archive-api-is-inadequate/)
@@ -200,8 +200,8 @@ Transparency reports need to be published on the following topics:
 
 4. **Public authorities** should make available **publicly and in regular manner comprehensive information on the number, nature and legal basis of content restriction requests sent to intermediaries and on the actions taken as a result of those requests.** Further, the information should include content restrictions based on international MLAs. States should publish detailed transparency reports on all content-related requests issued to intermediaries.
 
-## `MUST` Rectification of Behavioural Profiles (Peter's Problem)
-**Users must be enabled to rectify and edit their personal advertisement profile.** The user can have information changed that has arisen from algorithms due to incorrect data, as well as information that an algorithm has incorrectly composed from correct information, without the necessity to prove the truthfulness of the request. The user-interface of the platform needs to display the option for rectification close to every targeted advertisement that is based on profiling.
+## `MUST` Rectification of Behavioural Profiles
+**Users must be enabled to rectify and edit their personal advertisement profile.** The user can have information changed that has arisen from algorithms due to incorrect data, as well as information that an algorithm has incorrectly composed from correct information, without the necessity to prove the truthfulness of the request. The user-interface of the platform needs to display the option for rectification close to every targeted advertisement that is based on profiling. The user-interface also has to display the criteria via which the user was targeted with this particular advertisement.
 
 > Aspects of this proposal are already covered by the [Right to rectification | Art. 16 GDPR](https://gdpr-info.eu/art-16-gdpr/). However, algorithmic assumptions about a person that cannot be disputed with facts are not covered by the right to rectification.
 > [Current Facebook Ad Preference Screen](https://www.facebook.com/ads/preferences/?entry_product=ad_settings_screen)

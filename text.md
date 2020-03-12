@@ -178,15 +178,25 @@ Transparency reports need to be published on the following topics:
 2. **Report on legal requests on content and account blocking** containing, at least, the total global number of notifications of illegal content, the total number of accounts affected by the request, the total number of requests complied with, with the total number of requests complied with partially or not at all listed separately. The total number of requests for blocking accounts, the total number of accounts affected thereby, and the type of legal demands requiring for content to be blocked or deleted should also be included. This data must be provided per country, per legal basis and, if different security authorities are involved, also per authority.
 3. **Report on the enforcement of Terms of Services** containing, at least, the total number of account blockings or suspensions and content deletion in the categories of violations. The reporting needs to include the average time elapsed between publication of the content, notification, potential counter-notification, and action. This reporting will be categorized by the different sections of the Terms of Service, the actions that were taken, and if the decisions were partially or fully automated. Dominant platforms need to lay out how the enforcement of the Terms of Services is implemented and overseen. The report should also highlight all cases where the outcome of a content moderation decision based on Terms of Services contradicted the outcome of a notification of illegality.
 4. **Public authorities** should make available **publicly and in regular manner comprehensive information on the number, nature and legal basis of content restriction requests sent to intermediaries and on the actions taken as a result of those requests.** Further, the information should include content restrictions based on international MLAs. States should publish detailed transparency reports on all content-related requests issued to intermediaries.
+
 > [The Santa Clara Principles](https://santaclaraprinciples.org/)
+
 > [Current **Twitter** transparency on legal information request](https://transparency.twitter.com/en/information-requests.html)
+
 > [Current **Google** transparency on legal information requests](https://transparencyreport.google.com/user-data/overview)
+
 > [Current **Facebook** transparency on legal information requests](https://transparency.facebook.com/government-data-requests)
+
 > [Current **Microsoft** transparency on legal information requests](https://www.microsoft.com/en-us/corporate-responsibility/lerr)
+
 > [Current **Apple** transparency on legal information requests](https://www.apple.com/legal/transparency/)
+
 > [Current **Facebook** transparency on legal content restrictions](https://transparency.facebook.com/content-restrictions)
+
 > [Current **Twitter** transparency on legal content removal](https://transparency.twitter.com/en/removal-requests.html)
+
 > [Current **Twitter** transparency on Terms of Service enforcement](https://transparency.twitter.com/en/twitter-rules-enforcement.html)
+
 > [Current **Facebook** transparency on community standards enforcement](https://transparency.facebook.com/community-standards-enforcement)
 
 ## `MUST` Rectification of Behavioural Profiles

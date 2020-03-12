@@ -1,12 +1,12 @@
 ---
 title: Platform Regulation
 subtitle: an attempt at a fundamental rights based proposal
-version: "0.9.6beta"
+version: "1.0"
 ---
 
 Dominant internet platforms like Facebook, Amazon and Google are more and more becoming the arena of social and legal conflicts. We witness a worldwide debate about potential new rules for dominant social media platforms (a so called new "platform regulation"). These debates are highly complex in a law-based society because they require us to resolve the conflict between fundamental rights and risk delegation of essential tasks to private actors. Still, the negative effects of harmful behaviour by these actors increases political appetite for regulation.
 
-To navigate the upcoming debate, we want to propose, collect, and evaluate concrete policy solutions within the fundamental rights framework of the European Union. These proposals have been reviewed by a group of experts from academia, civil society and selected experts. The project aims at broad acceptance of developed positions within various European civil society stakeholders. Given the complexity and novelty of the underlying problems this proposal can't be seen as the final solution, but instead aims to further the debate.
+To navigate the upcoming debate, we want to propose, collect, and evaluate concrete policy solutions within the fundamental rights framework of the European Union. These proposals have been reviewed by a group of experts from academia, civil society and selected experts. The project aims at broad acceptance of developed positions within various European civil society stakeholders. Given the complexity and novelty of the underlying problems this proposal cannot be considered the solution to all questions in this field, but instead aims to further the debate with a concrete proposal that also addresses enforcement processes. Importantly, this proposal does not tie enforcement to liability as such an approach would inherently create an incentive for over-blocking on the part of platforms.
 
 This is a policy proposal in the form and in the spirit of a request for comments. We invite everybody to participate in the discussion, to provide feedback, and to propose amendments on any of the proposals outlined below on this website. [feedback@platformregulation.eu](mailto:feedback@platformregulation.eu)
 
@@ -46,16 +46,18 @@ By relevant platforms, we understand online or social media platforms that have 
 ## `MUST` Dominant Platforms
 By dominant platforms, we understand online or social media platforms that have significant market power in a majority of countries in the EEA and a minimum global revenue of a certain threshold.
 
+> Examples of definitions for significant market power and how a regulator should assess them can be found in telecommunication law, e.g. [Article 35 auf the Austrian Telecommunications Act 2003](https://www.rtr.at/en/tk/TKG2003/Telecommunications_Act_2003__unofficial_.pdf)
+
 ## `MUST` Sponsored Content
-By sponsored content, we understand all content that has been paid for to be displayed or to enlarge its reach.
+By sponsored content, we understand all content for which a payment has been made in order to promote it, either in general or to a specific audience.
 
 ## `MUST` Dark Content
-By dark content, we understand all sponsored content that is not published on the account of the advertiser and displayed only to a specified target audience.
+By dark content, we understand all sponsored content that is not visibly published through the account of the advertiser and displayed only to a specified target audience.
 
 > [What is the Difference Between a Sponsored Post and a Paid Ad?](https://blog.envisionitsolutions.com/what-is-the-difference-between-a-sponsored-post-and-a-paid-ad)
 
 ## `MUST` API Accessibility
-By API accessible, we understand a computer information system that gives access to all content via a unique identifier. This requires that all data has to be downloadable in bulk, by day, week, year and per country. New data shall be accessible via the system within a day of being published. APIs should be designed in a way to sustain independent research and long-term studies.
+By API accessible, we understand a computer information system that gives access to content via a unique identifier. This requires that data has to be downloadable in bulk, by day, week, year and per country. New data shall be accessible via the system within a day of being published. APIs should be designed in a way to sustain independent research and long-term studies.
 
 > [Facebook and Google: This is What an Effective Ad Archive API Looks Like](https://blog.mozilla.org/blog/2019/03/27/facebook-and-google-this-is-what-an-effective-ad-archive-api-looks-like/)
 > [Facebook's Ad Archive API is Inadequate](https://blog.mozilla.org/blog/2019/04/29/facebooks-ad-archive-api-is-inadequate/)
@@ -110,8 +112,8 @@ A considerable degree of content regulation on the internet takes places outside
 2. **The primary aim of the council is to highlight systemic and relevant cases of content moderation decisions that are discriminatory, harmful or in conflict with the rules of the platform.** The council can receive complaints from the general public, but is independent in its selection of cases or which topics it investigates.
 4. **Once the council has decided to start an investigation into the handling of certain types of content, it can request assistance from the platform regulator to obtain relevant information and data.** The regulator is obliged to give assistance if the request is within the mandate of the social media council. The regulator can obtain this data within its supervision mandate from the platform, but cannot base any other proceedings on knoweldge obtained thereby.
 5. **Relevant and dominant platforms are obliged to join the social media council.**
-6. **The Council must be comprised of a diverse group of experts, representing a range of different views and experiences.** Members of the Council should be selected in a transparent and independent manner. The Council must have a clear and public code of ethics and must be fully independent and able to make genuine, impartial and recognized decisions. The Oversight Council shall conduct itself as transparent as possible and seek input from the general public via open consultations on all relevant aspects of its work.
-7. **To inform the public and enable informed user decisions, Council has to publish bi-annual reports about its work and findings.**
+6. **The council must be comprised of a diverse group of experts, representing a range of different views and experiences.** Members of the council should be selected in a transparent and independent manner. The council must have a clear and public code of ethics and must be fully independent and able to make genuine, impartial and recognized decisions. The Oversight council shall conduct itself as transparent as possible and seek input from the general public via open consultations on all relevant aspects of its work.
+7. **To inform the public and enable informed user decisions, council has to publish bi-annual reports about its work and findings.**
 
 > For best practices on Conflict of Interest policies see the [Commission Decision C(2016)3301/F1](http://ec.europa.eu/transparency/regdoc/?fuseaction=list&coteId=3&year=2016&number=3301&version=ALL&language=en) on establishing European Commission [expert groups](http://ec.europa.eu/transparency/regexpert/index.cfm?do=faq.faq&aide=2)
 > On the horizontal effect of fundamental rights see this [case in Poland](https://en.panoptykon.org/articles/first-court-decision-sin-vs-facebook).
@@ -126,10 +128,10 @@ A considerable degree of content regulation on the internet takes places outside
 > [A Human Rights Approach to Platform Content Regulation](https://freedex.org/a-human-rights-approach-to-platform-content-regulation/)
 
 ## `RECOMMENDED` Develop Effective Alternatives to Content and Account Deletion
-**Currently the entire public debate and policy implementation focusses on content and account deletion.** Platforms should be encouraged to use such measures as a last resort and instead explore other measures which are less invasive for freedom of expression but may have a similar effect. These may include but are not limited to: content curation and community management, demoting and de-monetisation of content, changing operation style and design of forums away from maximising screen time and active setting of explicit speech norms within online communities. All of these measures can contribute to reducing the need for deletion in the first place.
+**Currently the entire public debate and policy implementation focusses on content and account deletion.** Platforms should be encouraged to use such measures as a last resort and instead explore other measures which are less invasive for freedom of expression but may have a similar effect. These may include but are not limited to: content curation and community management, changing operation style and design of forums away from maximising screen time and active setting of explicit speech norms within online communities. All of these measures can contribute to reducing the need for deletion in the first place.
 
 ## `DISCUSS` Trusted Flaggers
-**Dominant and relevant social media platforms may appoint trusted flaggers within a country.** Notifications of trusted flaggers are dealt with more expeditiously than others, but they are subject to the same safeguards as regulator notifications. A list of all current and previous trusted flaggers has to be published by the platform. Criteria and application process for registering an organisation or an individual as a trusted flagger have to be made public. Governmental institutions should never be able to become trusted flaggers.
+**Dominant and relevant social media platforms may appoint trusted flaggers within a country.** Notifications of trusted flaggers are dealt with more expeditiously than others, but they are subject to the same safeguards as regulator notifications. A list of all current and previous trusted flaggers has to be published by the platform. The application and revocation process, as well as criteria for an organisation or an individual to be awarded trusted flagger status must be made public. Governmental institutions should never be able to become trusted flaggers.
 
 ## `MUST` Establish Registered Offices to Interact with Authorities
 Dominant platforms have to establish registered offices in the EU countries where they conduct their business. These offices allow local law enforcement and courts to reach the platform under their jurisdiction.
@@ -173,32 +175,19 @@ For many marginalised groups anonymity is a pre-condition for the excise of the 
 Transparency reports need to be published on the following topics:
 
 1. **Report on law-enforcement information requests for user data** containing, at least, on the total number of requests for user data that were fully complied with and the total number of accounts affected, the sensitivity of the data requested, the total number of fully complied with requests and, listed separately, the total number of requests with which the platform has not or only partially complied. This data must be provided per country, per legal basis for the request and, if different security authorities are involved, also per authority.
-
-> [Current **Twitter** transparency on legal information request](https://transparency.twitter.com/en/information-requests.html)
-
-> [Current **Google** transparency on legal information requests](https://transparencyreport.google.com/user-data/overview)
-
-> [Current **Facebook** transparency on legal information requests](https://transparency.facebook.com/government-data-requests)
-
-> [Current **Microsoft** transparency on legal information requests](https://www.microsoft.com/en-us/corporate-responsibility/lerr)
-
-> [Current **Apple** transparency on legal information requests](https://www.apple.com/legal/transparency/)
-
 2. **Report on legal requests on content and account blocking** containing, at least, the total global number of notifications of illegal content, the total number of accounts affected by the request, the total number of requests complied with, with the total number of requests complied with partially or not at all listed separately. The total number of requests for blocking accounts, the total number of accounts affected thereby, and the type of legal demands requiring for content to be blocked or deleted should also be included. This data must be provided per country, per legal basis and, if different security authorities are involved, also per authority.
-
-> [Current **Facebook** transparency on legal content restrictions](https://transparency.facebook.com/content-restrictions)
-
-> [Current **Twitter** transparency on legal content removal](https://transparency.twitter.com/en/removal-requests.html)
-
 3. **Report on the enforcement of Terms of Services** containing, at least, the total number of account blockings or suspensions and content deletion in the categories of violations. The reporting needs to include the average time elapsed between publication of the content, notification, potential counter-notification, and action. This reporting will be categorized by the different sections of the Terms of Service, the actions that were taken, and if the decisions were partially or fully automated. Dominant platforms need to lay out how the enforcement of the Terms of Services is implemented and overseen. The report should also highlight all cases where the outcome of a content moderation decision based on Terms of Services contradicted the outcome of a notification of illegality.
-
-> [Current **Twitter** transparency on Terms of Service enforcement](https://transparency.twitter.com/en/twitter-rules-enforcement.html)
-
-> [Current **Facebook** transparency on community standards enforcement](https://transparency.facebook.com/community-standards-enforcement)
-
-> [The Santa Clara Principles](https://santaclaraprinciples.org/)
-
 4. **Public authorities** should make available **publicly and in regular manner comprehensive information on the number, nature and legal basis of content restriction requests sent to intermediaries and on the actions taken as a result of those requests.** Further, the information should include content restrictions based on international MLAs. States should publish detailed transparency reports on all content-related requests issued to intermediaries.
+> [The Santa Clara Principles](https://santaclaraprinciples.org/)
+> [Current **Twitter** transparency on legal information request](https://transparency.twitter.com/en/information-requests.html)
+> [Current **Google** transparency on legal information requests](https://transparencyreport.google.com/user-data/overview)
+> [Current **Facebook** transparency on legal information requests](https://transparency.facebook.com/government-data-requests)
+> [Current **Microsoft** transparency on legal information requests](https://www.microsoft.com/en-us/corporate-responsibility/lerr)
+> [Current **Apple** transparency on legal information requests](https://www.apple.com/legal/transparency/)
+> [Current **Facebook** transparency on legal content restrictions](https://transparency.facebook.com/content-restrictions)
+> [Current **Twitter** transparency on legal content removal](https://transparency.twitter.com/en/removal-requests.html)
+> [Current **Twitter** transparency on Terms of Service enforcement](https://transparency.twitter.com/en/twitter-rules-enforcement.html)
+> [Current **Facebook** transparency on community standards enforcement](https://transparency.facebook.com/community-standards-enforcement)
 
 ## `MUST` Rectification of Behavioural Profiles
 **Users must be enabled to rectify and edit their personal advertisement profile.** The user can have information changed that has arisen from algorithms due to incorrect data, as well as information that an algorithm has incorrectly composed from correct information, without the necessity to prove the truthfulness of the request. The user-interface of the platform needs to display the option for rectification close to every targeted advertisement that is based on profiling. The user-interface also has to display the criteria via which the user was targeted with this particular advertisement.
@@ -207,7 +196,7 @@ Transparency reports need to be published on the following topics:
 > [Current Facebook Ad Preference Screen](https://www.facebook.com/ads/preferences/?entry_product=ad_settings_screen)
 
 ## `MUST` Advertisement Archive
-**Dominant platforms need to publish sponsored content either displayed within the European Union or paid for by an account registered within the European Union in a public advertisement archive.** This archive must contain all sponsored content displayed within the last several years, with full functionality, as they were displayed to the user. The additional information stored in this archive must be also provided in a machine-readable format and accessible by an API. Additional information that needs to be supplied within the archive includes: whether the sponsored content is currently active or inactive; the start date for active content and the timespan in which the sponsored content was active for inactive content; the name and contact details of the advertiser; the total number of impressions; the exact description of the target group; the exact amount of money paid and, while active, the estimated amount. For sponsored content that needs to be depublished due to Terms of Service violations or legal proceedings, the additional information needs to stay in the ad-archive and further information about the type of rule violation or pending lawsuits needs to be provided. Each piece of sponsored content must contain an attached info button that directly links to the content within the Advertisement Archive.
+**Dominant platforms must make an archive of sponsored content available if the content was either displayed within the European Union or paid for by an account registered within the European Union.** This archive must contain all sponsored content displayed within the last several years, with full functionality, as they were displayed to the user. The additional information stored in this archive must be also provided in a machine-readable format and accessible by an API. Additional information that needs to be supplied within the archive includes: whether the sponsored content is currently active or inactive; the start date for active content and the timespan in which the sponsored content was active for inactive content; the name and contact details of the advertiser; the total number of impressions; the exact description of the target group; the exact amount of money paid and, while active, the estimated amount. For sponsored content that needs to be depublished due to Terms of Service violations or legal proceedings, the additional information needs to stay in the ad-archive and further information about the type of rule violation or pending lawsuits needs to be provided. Each piece of sponsored content must contain an attached info button that directly links to the content within the Advertisement Archive.
 
 > This provides more transparency about commercial advertisement in general and, by building awareness, this may also have a positive impact on public manipulation in general.
 > In addition to algorithmic transparency, the possibility to understand the reason that an advertisement is shown to you may also be an important step in understanding why people see what they see online (algorithmic content composition).
@@ -266,7 +255,7 @@ Transparency reports need to be published on the following topics:
 > See [Data transfer project](https://datatransferproject.dev/), [Data transfer project whitepaper](https://datatransferproject.dev/dtp-overview.pdf), [Right to data portability | Art. 20 GDPR](https://gdpr-info.eu/art-20-gdpr/), [Economics of open and closed systems - switching costs p. 8](http://www.autoritedelaconcurrence.fr/doc/economics_open_closed_systems.pdf) and [Tim Berners-Lee | Solid | true data ownership](https://solid.mit.edu/)
 
 ## `RECOMMENDED` Stricter Merger Control
-**Similar to the telecommunications market, mergers between, and acquisitions of, dominant platforms are subject to approval by competition authorities.** The public authority shall take into account the effect of the merger on consumer choice, on the potential concentration of market power, on risks of gatekeeping roles in other markets, as well as on the concentration of user data under one centralized entity. Additionally, the “potential competition” test should be applied more consistently to prevent that bigger firms absorbing small companies like start-ups that in the future could become competitors. Authorities can prohibit or allow the merger and also place conditions on it.
+**Mergers that create a monopoly or dominant platforms acquiring their rivals or nascent competitors should be prohibited. Similar to the telecommunications market, mergers between, and acquisitions of, dominant platforms are subject to approval by competition authorities.** The public authority shall take into account the effect of the merger on consumer choice, on the potential concentration of market power, on risks of gatekeeping roles in other markets, as well as on the concentration of user data under one centralized entity. Therefore, specific models should be created that take the peculiarities of markets based on data into account. Additionally, the “potential competition” test should be applied more consistently to prevent that bigger firms absorbing small companies like start-ups that in the future could become competitors. Authorities can prohibit or allow the merger and also place conditions on it.
 
 > Partly based on [BEUC: Shaping Competition Policy in the era of digitalisation](https://www.beuc.eu/publications/beuc-x-2018-084_beuc_response_shaping_of_competition_policy.pdf). See also [It's Time to Break Up Facebook - NYT](https://www.nytimes.com/2019/05/09/opinion/sunday/chris-hughes-facebook-zuckerberg.html)
 
